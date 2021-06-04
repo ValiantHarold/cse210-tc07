@@ -40,4 +40,6 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add names and emails here
+* # TODO: 
+Michael McFarland: michaelmcfarland19982gmail.com
+Brandon McFarland: brandon4cool@gmail.com
