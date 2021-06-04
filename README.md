@@ -43,3 +43,4 @@ root                    (project root folder)
 * # TODO: 
 Michael McFarland: michaelmcfarland19982gmail.com
 Brandon McFarland: brandon4cool@gmail.com
+Ashur Ellsworth: ell15022@byui.edu
